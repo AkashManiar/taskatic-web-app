@@ -1,0 +1,18 @@
+.fieldset { border:3px solid green }
+
+.legend {
+    padding: 0.2em 0.5em;
+    border:5px solid green;
+    color:green;
+    font-size:90%;
+    text-align:right;
+}
+.sign-up-form {
+    position: relative;
+}
+.background-img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 5;
+}

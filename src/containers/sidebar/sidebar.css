@@ -1,0 +1,13 @@
+.nv {
+    color: black;
+    font-weight: bold;
+}
+.nv:hover {
+    background: #0275d8;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 5px;
+    width: auto;
+    text-align: center;
+    height: auto;
+}

@@ -1,0 +1,28 @@
+.info {
+  padding: 20px;
+}
+.text-description {
+  word-wrap: break-word;
+}
+.border {
+  border: 50px solid #0275d8;
+  width: 100%;
+  border-radius: 5px;
+}
+.text-wrap {
+  text-align: center;
+
+}
+.item-description  {
+  padding-top: 60px;
+}
+.copy-right {
+  display: inline-block;
+}
+.copy-right-2020 {
+  display: inline-block;
+  padding-left: 8px;
+}
+.copy {
+  padding-top: 25px;
+}
