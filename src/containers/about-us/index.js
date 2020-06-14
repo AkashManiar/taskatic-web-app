@@ -18,7 +18,7 @@ import Footer from "../../common/Footer"
 import Logo from "../../common/Logo"
 
 
-class ContactUs extends Component {
+class AboutUs extends Component {
     render() {
         return (
             <Container fluid>
@@ -101,4 +101,4 @@ class ContactUs extends Component {
         )
     }
 }
-export default ContactUs
+export default AboutUs

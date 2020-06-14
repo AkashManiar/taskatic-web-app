@@ -1,4 +1,4 @@
-import ContactUs from "../containers/contact-us"
+import AboutUs from "../containers/about-us"
 import App from "../App"
 import Error from "../containers/error"
 import SignUp from "../containers/sign-up"
@@ -9,9 +9,9 @@ import Home from "../containers/home"
 
 const routes = [
   {
-    path: "/contact-us",
+    path: "/about-us",
     exact: true,
-    component: ContactUs
+    component: AboutUs
   },
   {
     path: "/sign-up",

@@ -7,10 +7,10 @@ class Footer extends Component {
     render() {
         return (
             <Card>
-				<Link to="/contact-us">
+				<Link to="/about-us">
 					<div style={{ padding: "10px" }}>
 						<span style={{ display: "inline-block", paddingRight: "5px" }}><FaUser size="2em" style={{ "color": "#0275d8"}}/></span>
-						<h4 style={{ color: "#0275d8" , display: "inline-block" }}>Contact Us</h4>
+						<h4 style={{ color: "#0275d8" , display: "inline-block" }}>About Us</h4>
 					</div>
 				</Link>
 				<span style={{ textAlign: "center", paddingTop: "20px" }}><FaTumblr size="2em" style={{ "color": "#0275d8"}} /></span>
