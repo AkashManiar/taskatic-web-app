@@ -72,6 +72,10 @@ Well homepage contains the sidebar and nav bar. Now with sidebar, I have kept of
 
 Navbar in home page has font color of greyish, which get darker on hovering, which again shows user which options the are going for
 
+## SignUp & Login Validation
+
+Sign up and login validations are been totally customized, however we html provides basic validation for email and displays its message which can't be overriden. Having said that, I have applied email and password validation (i.e 6 characters and alphanumeric as the basic requirement for a valid password ). Respective error message in red color is generated if password or email is invalid.
+
 
 ## Links of pages made
 
