@@ -1,4 +1,4 @@
-import React, { Component } from "react"
+    import React, { Component } from "react"
 import { Col, Row, Container } from "reactstrap"
 import pageNotFound from "../../assests/pageNotFound.png"
 
