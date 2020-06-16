@@ -125,8 +125,4 @@ I have tried to customize the whole boiler plate initially on my own, using **we
 
 However you can find my attempt for customized boiler plate made using **webpack** here
 
-https://github.com/AkashManiar/Taskatic 
-
-
-
-
+https://github.com/AkashManiar/Taskatic
